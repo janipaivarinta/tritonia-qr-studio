@@ -1,0 +1,10 @@
+{
+  "name": "local/qr-generator",
+  "description": "Self-hosted QR code generator",
+  "require": {
+    "php": "^8.2",
+    "ext-gd": "*",
+    "endroid/qr-code": "^6.0",
+    "dompdf/dompdf": "^3.1"
+  }
+}
