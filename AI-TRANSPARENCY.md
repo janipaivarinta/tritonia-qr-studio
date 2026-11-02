@@ -131,9 +131,9 @@ The publication record should identify the responsible human contributor, softwa
 
 Where applicable, this transparency statement should be included in the archived software release to preserve information about the development methodology.
 
-**Repository:** To be specified  
-**Software version:** 1.0
-**Zenodo DOI:** To be assigned
+- **Repository:** https://github.com/janipaivarinta/tritonia-qr-studio
+- **Software version:** 1.0
+- **Zenodo DOI:** To be assigned
 
 ## 10. Declaration
 
