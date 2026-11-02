@@ -1,5 +1,20 @@
 # Tritonia QR Studio
 
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>Light Mode</strong></td>
+    <td width="50%" align="center"><strong>Dark Mode</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/img/tritonia-qr-studio-light.png" alt="QR Studio Light Mode" width="100%">
+    </td>
+    <td>
+      <img src="assets/img/tritonia-qr-studio-dark.png" alt="QR Studio Dark Mode" width="100%">
+    </td>
+  </tr>
+</table>
+
 Self-hosted QR code generator: PNG, JPEG, PDF, SVG; 256/512/1024 px; Finnish, Swedish, English; light/dark mode. No database, tracking or external QR API.
 
 ## Debian 13 / Apache installation
