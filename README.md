@@ -1,4 +1,4 @@
-# QR Studio
+# Tritonia QR Studio
 
 Self-hosted QR code generator: PNG, JPEG, PDF, SVG; 256/512/1024 px; Finnish, Swedish, English; light/dark mode. No database, tracking or external QR API.
 
