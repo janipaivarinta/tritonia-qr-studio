@@ -46,3 +46,13 @@ Self-hosted QR code generator: PNG, JPEG, PDF, SVG; 256/512/1024 px; Finnish, Sw
 - This is a starter implementation. For an internet-facing deployment, add Apache or reverse-proxy rate limiting and consider request body limits.
 - Avoid low-contrast color combinations: they may become unscannable.
 - The `transparent` parameter is reserved for a future transparency feature and is not currently implemented.
+
+## License
+
+Tritonia QR Studio is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+See the [LICENSE](LICENSE) file for the full license terms.
+
+## Third-Party Dependencies
+
+Third-party dependencies are installed separately using Composer and are subject to their respective licenses.
