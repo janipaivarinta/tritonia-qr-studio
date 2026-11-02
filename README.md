@@ -71,3 +71,12 @@ See the [LICENSE](LICENSE) file for the full license terms.
 ## Third-Party Dependencies
 
 Third-party dependencies are installed separately using Composer and are subject to their respective licenses.
+
+## AI Transparency
+
+QR Studio has been developed with substantial assistance
+from generative AI.
+
+See [AI Transparency Statement](AI-TRANSPARENCY.md)
+for details about AI contributions, human oversight,
+testing, and accountability.
