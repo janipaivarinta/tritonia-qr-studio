@@ -133,7 +133,7 @@ Where applicable, this transparency statement should be included in the archived
 
 - **Repository:** https://github.com/janipaivarinta/tritonia-qr-studio
 - **Software version:** 1.0
-- **Zenodo DOI:** To be assigned
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.23883677
 
 ## 10. Declaration
 

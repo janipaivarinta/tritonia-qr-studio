@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "QR Studio"
+type: software
+authors:
+  - family-names: "Päivärinta"
+    given-names: "Jani"
+doi: 10.5281/zenodo.23883677

@@ -1,5 +1,7 @@
 # Tritonia QR Studio
 
+[![DOI]](https://zenodo.org/badge/DOI/10.5281/zenodo.23883677.svg)](https://doi.org/10.5281/zenodo.23883677)
+
 <table>
   <tr>
     <td width="50%" align="center"><strong>Light Mode</strong></td>
@@ -61,6 +63,12 @@ Self-hosted QR code generator: PNG, JPEG, PDF, SVG; 256/512/1024 px; Finnish, Sw
 - This is a starter implementation. For an internet-facing deployment, add Apache or reverse-proxy rate limiting and consider request body limits.
 - Avoid low-contrast color combinations: they may become unscannable.
 - The `transparent` parameter is reserved for a future transparency feature and is not currently implemented.
+
+## Citation
+
+If you use Tritonia QR Studio in academic work, please cite:
+
+https://doi.org/10.5281/zenodo.23883677
 
 ## License
 
